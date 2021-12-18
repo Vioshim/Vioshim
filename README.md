@@ -1,6 +1,6 @@
 ### Hello Everyone!!
 ---
-Here's a latino fella that goes on internet by the name is Vioshim, I'm currently a college student dedicated mostly to the fields of computer science.
+Just a random fella that goes on internet by the name Vioshim, I'm currently a college student dedicated mostly to the fields of computer science.
 
 Mostly coding as hobby as the moment, but I'm very interested on keep using this as a way to train and improve my abilities in this career.
 
