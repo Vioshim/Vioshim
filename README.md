@@ -3,9 +3,9 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vioshim)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PokemonRP)
 
-The name is Vioshim, I'm currently a college student that is heavily interested in programming.
+Here's a latino fella that goes on internet by the name is Vioshim, I'm currently a college student dedicated mostly to the fields of computer science.
 
-Mostly coding as hobby as the moment, but I'm very interested on keep using this as a way to train.
+Mostly coding as hobby as the moment, but I'm very interested on keep using this as a way to train and improve my abilities in this career.
 
 ---
 
