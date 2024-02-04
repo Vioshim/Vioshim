@@ -17,7 +17,7 @@ Mostly coding as hobby as the moment, but I'm very interested on keep using this
   <a href='https://github.com/Vioshim' target='_blank'>
     <img height='35' style='border:0px;height:46px;' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' border='0' alt='GitHub' />
   </a>
-  <a href='https://discord.gg/amJPcb5uQF' target='_blank'>
-    <img height='35' style='border:0px;height:46px;' src="https://discordapp.com/api/guilds/719343092963999804/widget.png?style=banner2" alt="Discord Banner"/>
+  <a href='https://discord.gg/Tf7Y7hyGk4' target='_blank'>
+    <img height='35' style='border:0px;height:46px;' src="https://discordapp.com/api/guilds/1065784144417787994/widget.png?style=banner2" alt="Discord Banner"/>
   </a>
 </p>
