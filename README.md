@@ -4,20 +4,16 @@ Just a random fella that goes on internet by the name Vioshim, I'm currently a c
 
 Mostly coding as hobby as the moment, but I'm very interested on keep using this as a way to train and improve my abilities in this career.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vioshim&show_icons=true&theme=onedark" alt="Stats"/>
-</p>
-
 ---
 
 <p align="right">
-  <a href='https://ko-fi.com/Vioshim' target='_blank'>
-    <img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  <a href='https://paypal.me/Kranjim' target='_blank'>
+    <img height='35' style='border:0px;height:46px;' src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white' border='0' alt='PayPal Link' />
   </a>
   <a href='https://github.com/Vioshim' target='_blank'>
     <img height='35' style='border:0px;height:46px;' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' border='0' alt='GitHub' />
   </a>
-  <a href='https://discord.gg/Tf7Y7hyGk4' target='_blank'>
-    <img height='35' style='border:0px;height:46px;' src="https://discordapp.com/api/guilds/1065784144417787994/widget.png?style=banner2" alt="Discord Banner"/>
+  <a href='https://discord.gg/wWEfXeu6jW' target='_blank'>
+    <img height='35' style='border:0px;height:46px;' src="https://discordapp.com/api/guilds/1196879060173852702/widget.png?style=banner2" alt="Discord Banner"/>
   </a>
 </p>
