@@ -14,6 +14,6 @@ Mostly coding as hobby as the moment, but I'm very interested on keep using this
     <img height='35' style='border:0px;height:46px;' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' border='0' alt='GitHub' />
   </a>
   <a href='https://discord.gg/wWEfXeu6jW' target='_blank'>
-    <img height='35' style='border:0px;height:46px;' src="https://discordapp.com/api/guilds/1196879060173852702/widget.png?style=banner2" alt="Discord Banner"/>
+    <img height='35' style='border:0px;height:46px;' src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Banner"/>
   </a>
 </p>
