@@ -1,8 +1,7 @@
-### Hello Everyone!!
+### Hi, I’m Vioshim!
 ---
-Just a random fella that goes on internet by the name Vioshim, I'm currently a college student dedicated mostly to the fields of computer science.
-
-Mostly coding as hobby as the moment, but I'm very interested on keep using this as a way to train and improve my abilities in this career.
+I’m a passionate programmer with a love for problem-solving and continuous learning. I enjoy working with Python and other languages to create efficient, user-friendly solutions. Driven by curiosity, I’m always expanding my knowledge and skillset to improve both personally and professionally.
+I take pride in being mindful of the needs of others, especially when collaborating on projects. I value direct, clear communication, ensuring that ideas are understood and tasks are completed smoothly. My goal is to design systems that not only function well but also support the people behind them.
 
 ---
 
