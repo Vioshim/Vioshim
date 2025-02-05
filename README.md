@@ -7,13 +7,7 @@ I take pride in being mindful of the needs of others, especially when collaborat
 ---
 
 <p align="right">
-  <a href='https://paypal.me/Kranjim' target='_blank'>
-    <img height='35' style='border:0px;height:46px;' src='https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white' border='0' alt='PayPal Link' />
-  </a>
-  <a href='https://github.com/Vioshim' target='_blank'>
-    <img height='35' style='border:0px;height:46px;' src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' border='0' alt='GitHub' />
-  </a>
   <a href='https://discord.gg/wWEfXeu6jW' target='_blank'>
-    <img height='35' style='border:0px;height:46px;' src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Banner"/>
+    <img alt="Discord" src="https://img.shields.io/discord/1196879060173852702?style=social&logo=discord&label=Support%20Server">
   </a>
 </p>
