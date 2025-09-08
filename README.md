@@ -6,8 +6,12 @@
 </h1>
 
 
-I’m a Systems Engineer with a passion for **building purposeful technology** — from interactive role-playing systems and educational tools to scalable software solutions.  
-I enjoy tackling problems where logic meets creativity, and I’m always exploring new ways to make systems more intuitive and human-friendly.  
+I build systems that are meant to last: reliable, maintainable, and not a headache to work with. Most of my work is in **Python**, especially around automation, async workflows, and Discord bot development, but I’ll use whatever tool fits the problem best.  
+
+I care about **clarity and collaboration**. Projects move smoother when code is clean, communication is clear, and people know where they stand. I like bridging the gap between technical precision and practical usability.  
+
+I keep learning as I go; every project is a chance to sharpen skills, improve design, and make the next system better.
+
 
 ---
 
