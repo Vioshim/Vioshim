@@ -58,6 +58,7 @@ Localization support for D-Proxy and related bots.
 - **PySynth**: Music generation tool in Python.  
 
 #### **Libraries & Contributions**  
+- **discord.py**: Contributed to one of the most popular Python Discord libraries.  
 - **discord-ext-i18n**: Forked i18n engine for discord.py bots.  
 - **redis-om-python**, **redis-py**, **RapidFuzz**, **dateparser**: Libraries and utilities showcasing backend and data-processing expertise.  
 - **pluralkit.py**: Discord integration library.  
